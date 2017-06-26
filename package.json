@@ -1,0 +1,21 @@
+{
+  "name": "webpack-mpa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpackStart": "webpack --config webpack.config.js",
+    "webpackTest": "webpack --config webpack.config.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "lodash": "^4.17.4",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.0.0"
+  }
+}
