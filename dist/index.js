@@ -17276,7 +17276,7 @@ exports = module.exports = __webpack_require__(6)(undefined);
 
 
 // module
-exports.push([module.i, ".test{\r\n\tcolor:#67f;\r\n\tbackground: url(" + __webpack_require__(7) + ");\r\n}", ""]);
+exports.push([module.i, "@font-face {\r\n  font-family: 'iconfont';  /* project id 232095 */\r\n  src: url('//at.alicdn.com/t/font_sbu75i10rhql4n29.eot');\r\n  src: url('//at.alicdn.com/t/font_sbu75i10rhql4n29.eot?#iefix') format('embedded-opentype'),\r\n  url('//at.alicdn.com/t/font_sbu75i10rhql4n29.woff') format('woff'),\r\n  url('//at.alicdn.com/t/font_sbu75i10rhql4n29.ttf') format('truetype'),\r\n  url('//at.alicdn.com/t/font_sbu75i10rhql4n29.svg#iconfont') format('svg');\r\n}\r\n.test{\r\n\tcolor:#67f;\r\n\tbackground: url(" + __webpack_require__(7) + ") no-repeat;\r\n\tfont-family: \"iconfont\";\r\n}\r\n", ""]);
 
 // exports
 
